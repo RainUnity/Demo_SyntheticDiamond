@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 54c0f9332eb93164ebcf099d0c02bde8
+labels:
+- Shader
+- Metal
+- Glass
+- Fresnel
+- Reflection
+- Refraction
+- Light
+ShaderImporter:
+  defaultTextures: []
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
